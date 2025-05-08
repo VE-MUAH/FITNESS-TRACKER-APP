@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl    
+sqlalchemy
+sqlite3
+matplotlib
+plotly
+fpdf
+base64
+
